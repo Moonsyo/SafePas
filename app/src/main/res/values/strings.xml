@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafePas</string>
+    <string name="home_screen">My Passwords</string>
+    <string name="add_password_screen">Add Password</string>
+</resources>
